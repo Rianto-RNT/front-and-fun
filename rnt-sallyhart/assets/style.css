@@ -13,6 +13,14 @@ body {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 700;
+}
+
+img {
+    width: 100px;
+}
+
+a {
+    color: #000000;
 }
