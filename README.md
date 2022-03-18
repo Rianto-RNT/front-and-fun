@@ -29,7 +29,7 @@
 | [Spacejam 1996](https://www.spacejam.com/1996/) | This website is build in 1996 with pure html css and javascript.
 | [Spacejam 2021](https://www.spacejam.com/2021/) | Modern version of the site
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -163,7 +163,7 @@
 - Creating a function for moving the slide
 - Making the arrow keys work for navigation
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -230,7 +230,7 @@
 | [Raster Simple Grid System](https://rsms.me/raster/) | Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS.​
 | [flowrift](https://flowrift.com/c/banner) | Flowrift is a library made of beautifully designed Tailwind CSS UI blocks.​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -245,7 +245,7 @@
 | [BEM](http://getbem.com/) | Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development.​
 | [SMACSS](http://smacss.com/) | SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -277,7 +277,7 @@
 | [Hamburgers](https://jonsuh.com/hamburgers/) | Hamburgers is a collection of tasty CSS-animated hamburger icons. Also included is the source as a Sass library. It’s modular and customizable, so cook up your own hamburger.​
 | [Motion One](https://motion.dev/) | A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -318,7 +318,7 @@
 | [Tingle.js](https://tingle.robinparisi.com/) | Tingle is a simple modal plugin written in pure JavaScript​
 | [Theatre.js](https://www.theatrejs.com/) | Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable.​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -336,7 +336,7 @@
 | [ApexCharts.Js](https://apexcharts.com/) |Modern & Interactive Open-source Charts​
 | [Chartist](http://gionkunz.github.io/chartist-js/index.html) |Simple responsive charts​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -386,7 +386,7 @@
 | [Styled components](https://styled-components.com/) | Build beautifully UI Components, for your applications & websites.​
 | [Figma Bootstrap 5 UI Kit](https://drive.google.com/file/d/1SZOTxXYfCMujqP2P684Vd5QIrlk5bwe6/view?usp=sharing) | UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout.​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -455,7 +455,7 @@
 | [Elementz](https://elementz.style/) | A React Component library for buliding modern applications easily & quickly.​
 | [Radix UI](https://www.radix-ui.com/) | Unstyled, accessible components for building high‑quality design systems and web apps in React​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -505,7 +505,7 @@
 | [Vuestic](https://vuestic.dev/) | Free and Open Source UI Library for Vue 3 🤘.​
 | [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js.​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -532,7 +532,7 @@
 | [Clarity](https://clarity.design/) | CSS based Angular UI framework developed by VMware group​
 | [Taiga UI](https://taiga-ui.dev/) | Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons.​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -547,7 +547,7 @@
 | [Svelte Flat UI](https://svelteui.js.org/) |UI library for Svelte based on Flat Design​
 | [Svelte Particles](https://particles.matteobruni.it/) | A lightweight Svelte component for creating particles​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
 
@@ -569,6 +569,6 @@
 | [SnackUI](https://github.com/snackui/snackui) | SnackUI is a UI Kit for React Native + react-native-web that's much faster rocket with an optimizing compiler.​
 | [Moti](https://moti.fyi/) | Moti is the universal animation package for React Native​
 
-<div align="left">
+<div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
 </div>
