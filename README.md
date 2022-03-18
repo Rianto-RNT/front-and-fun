@@ -147,7 +147,7 @@ Making the arrow keys work for navigation
 # Design Resource for Developers
 
 ## CSS Frameworks​
->CSS/UI frameworks to help build great looking websites and applications
+> CSS/UI frameworks to help build great looking websites and applications
 
 Tailwind CSS [ https://tailwindcss.com/ ] - Low level, utility-first framework​
 Bootstrap [ https://getbootstrap.com/ ] - Popular UI framework with tons of components that use both CSS and JS​
@@ -207,7 +207,7 @@ Raster Simple Grid System [ https://rsms.me/raster/ ] - Minimal and straight-for
 flowrift [ https://flowrift.com/c/banner ] - Flowrift is a library made of beautifully designed Tailwind CSS UI blocks.​
 
 ## CSS Methodologies​
->CSS methodologies to help write modular, reusable and scalable code
+> CSS methodologies to help write modular, reusable and scalable code
 
 OOCSS [ http://oocss.org/ ] - OOCSS concepts help us write components that are flexible, modular and interchangeable.​
 Atomic CSS [ https://acss.io/ ] - Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function.​
@@ -215,7 +215,7 @@ BEM [ http://getbem.com/ ] - Block Element Modifier is a methodology that helps 
 SMACSS [ http://smacss.com/ ] - SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.​
 
 ## CSS Animations​
->CSS animations to build awesome animations for websites and applications
+> CSS animations to build awesome animations for websites and applications
 
 Animate.css [ https://animate.style/ ] - Just-add-water CSS animations​
 Bounce.js [ http://bouncejs.com/ ] - Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations​
