@@ -6,19 +6,19 @@
 
 ## Starter Guideline
 
-| [RNT Creative - Learn HTML CSS and Javascript for Beginner](#rnt-creative---learn-html-css-and-javascript-for-beginner)
-| [Development Process](#development-process)
-| [CSS Framework](#css-frameworks​)
-| [CSS Methodologies​](#css-methodologies​)
-| [CSS Animations](#css-animations​)
-| [Javascript Animation Libraries](#javascript-animation-libraries​)
-| [Jacascript Chart Libraries](#javascript-chart-libraries​)
-| [Ui Component & Kits](#ui-components--kits​)
-| [React UI Libraries](#react-ui-libraries​)
-| [Vue UI Libraries](#vue-ui-libraries​)
-| [Angular UI Libraries](#angular-ui-libraries​)
-| [Svelte UI Libraries](#svelte-ui-libraries​)
-| [React Native UI Libraries](#react-native-ui-libraries​)
+- [RNT Creative - Learn HTML CSS and Javascript for Beginner](#rnt-creative---learn-html-css-and-javascript-for-beginner)
+- [Development Process](#development-process)
+- [CSS Framework](#css-frameworks​)
+- [CSS Methodologies​](#css-methodologies​)
+- [CSS Animations](#css-animations​)
+- [Javascript Animation Libraries](#javascript-animation-libraries​)
+- [Jacascript Chart Libraries](#javascript-chart-libraries​)
+- [Ui Component & Kits](#ui-components--kits​)
+- [React UI Libraries](#react-ui-libraries​)
+- [Vue UI Libraries](#vue-ui-libraries​)
+- [Angular UI Libraries](#angular-ui-libraries​)
+- [Svelte UI Libraries](#svelte-ui-libraries​)
+- [React Native UI Libraries](#react-native-ui-libraries​)
 
 ## RNT Creative - Learn HTML CSS and Javascript for Beginner 
 
