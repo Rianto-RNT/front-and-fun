@@ -26,6 +26,9 @@
 
 ## Development Process
 
+> My Learning resource [SuperHi](https://www.superhi.com/courses/html-css-javascript-foundation) - Foundation HTML CSS and Javascript :)
+> Check my repository for source code.
+
 - What is the World Wide Web?
 - Writing our first HTML
 - Writing our first CSS
