@@ -8,7 +8,7 @@
 
 - [RNT Creative - Learn HTML CSS and Javascript for Beginner](#rnt-creative---learn-html-css-and-javascript-for-beginner)
 - [Development Process](#development-process)
-- [CSS Framework](#css-frameworks​)
+- [CSS Frameworks](#css-frameworks​)
 - [CSS Methodologies​](#css-methodologies​)
 - [CSS Animations](#css-animations​)
 - [Javascript Animation Libraries](#javascript-animation-libraries​)
@@ -24,10 +24,10 @@
 
 > Making things for the world wide web
 
-| [1989 - world wide web - Tim Berners Lee - CERN - Geneeva](http://info.cern.ch/hypertext/WWW/TheProject.html)
+- [1989 - world wide web - Tim Berners Lee - CERN - Geneeva](http://info.cern.ch/hypertext/WWW/TheProject.html)
 - The WordlWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to large universe of document.
-| [Spacejam 1996](https://www.spacejam.com/1996/) | This website is build in 1996 with pure html css and javascript.
-| [Spacejam 2021](https://www.spacejam.com/2021/) | Modern version of the site
+- [Spacejam 1996](https://www.spacejam.com/1996/) - This website is build in 1996 with pure html css and javascript.
+| [Spacejam 2021](https://www.spacejam.com/2021/) - Modern version of the site
 
 <div align="right">
     <b><a href="#starter-guideline"> Back on top &#8593;</a></b>
@@ -36,6 +36,7 @@
 ## Development Process
 
 > My Learning resource [SuperHi](https://www.superhi.com/courses/html-css-javascript-foundation) | Foundation HTML CSS and Javascript :)
+
 > Check my repository for source code.
 
 - What is the World Wide Web?
