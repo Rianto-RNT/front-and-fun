@@ -285,6 +285,8 @@
 
 > javascript animations libraries to build awesome animations for websites and applications
 
+| Link | Description|
+|------|------------|
 | [Greensock](https://greensock.com/) | A JavaScript library for building high-performance animations that work in every major browser​
 | [Velocity.js](http://velocityjs.org/) | Velocity is a lightweight animation engine with the same API as jQuery's $.animate(]-​
 | [lax.js](https://github.com/alexfoxy/laxxx) | Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll!​
@@ -324,6 +326,8 @@
 
 > Libraries that help developers visualize data into charts
 
+| Link | Description|
+|------|------------|
 | [ChartJS](https://www.chartjs.org/) | Simple yet flexible JavaScript charting for designers & developers​
 | [FrappeJS](https://frappe.io/charts) | Includes Green squares grid like in GitHub, and other charts to use.​
 | [G2Plot](https://g2plot.antv.vision/en) | G2Plot is an interactive and responsive charting library based on the grammar of graphics.​
@@ -340,6 +344,8 @@
 
 > Not quite "frameworks", but tools for creating user interfaces with components or UI kits
 
+| Link | Description|
+|------|------------|
 | [Bit](https://bit.dev/components) | Provides a huge library of reuseable UI Components for React, Angular, Vue, React Native. Also can be used for sharing UI Components among other team members​
 | [UILang](http://uilang.com/) | A minimal, UI-focused programming language for web designers​
 | [Medialoot CSS Components](https://medialoot.com/free-themes/css-components/) | Calendars, price grids and other UI components​
@@ -388,6 +394,8 @@
 
 > UI and component libraries for the React JavaScript framework
 
+| Link | Description|
+|------|------------|
 | [Material UI](https://material-ui.com/) | React components for faster and easier web development, based on Material Design​
 | [Chakra UI](https://chakra-ui.com/) | Build accessible React apps & websites with speed. Openchakra (https://openchakra.app/) |​
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript​
@@ -455,6 +463,8 @@
 
 > UI and component libraries for the Vue JavaScript framework
 
+| Link | Description|
+|------|------------|
 | [Vuetify](https://vuetifyjs.com/en/) | Material design component framework​
 | [Bootstrap Vue](https://bootstrap-vue.org/) | Use Bootstrap components with Vue​
 | [Buefy](https://buefy.org/) | Lightweight UI components based on Bulma​
@@ -503,6 +513,8 @@
 
 - > UI and component libraries for the Angular JavaScript framework
 
+| Link | Description|
+|------|------------|
 | [Material Angular](https://material.angular.io/) | UI library for Angular based on Material design​
 | [NG Bootstrap](https://ng-bootstrap.github.io/#/home) | UI library for Angular based on the Bootstrap framework​
 | [PrimeNG](https://www.primefaces.org/primeng/#/) | Powerful UI component library for Angular​
@@ -528,6 +540,8 @@
 
 - > UI and component libraries for the Svelte JavaScript compiler
 
+| Link | Description|
+|------|------------|
 | [Svelte Material UI](https://sveltematerialui.com/) | UI library for Svelte based on Material Design​
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/) | UI library for Svelte based on the Bootstrap framework​
 | [Svelte Flat UI](https://svelteui.js.org/) |UI library for Svelte based on Flat Design​
@@ -541,6 +555,8 @@
 
 > UI and component libraries for the React Native Framework
 
+| Link | Description|
+|------|------------|
 | [Magnus UI](https://magnus-ui.com/) | Magnus UI is the ultimate UI framework that helps you in building consistent user interfaces effortlessly in react native​
 | [React Native UI Lib](https://wix.github.io/react-native-ui-lib/) | React Native UI [RNUI) | is a UI Toolset & Components Library for React Native from Wix​
 | [React Native Paper](https://reactnativepaper.com/) | React Native Paper is a high-quality, standard-compliant Material Design library that has you covered in all major use-cases​
