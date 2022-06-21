@@ -42,10 +42,11 @@
 - What is the World Wide Web?
 - Writing our first HTML
 - Writing our first CSS
-- Sally Hart Photography Part 1
-- Sally Hart Photography Part 2
-- Sally Hart Photography Part 3
-- Sally Hart Photography Part 4
+    - Finish
+- RNT Creative Photography Part 1
+- RNT Creative Photography Part 2
+- RNT Creative Photography Part 3
+- RNT Creative Photography Part 4
 - Overview and initial HTML
 - Padding, margins and the box model
 - Blockquotes and borders
