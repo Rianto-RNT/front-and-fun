@@ -1,5 +1,5 @@
 body {
-	font-family: Arvo;
+	font-family: 'Oswald', sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
 	
@@ -32,7 +32,7 @@ a {
 }
 
 a:hover {
-  color: #ff4141;
+  color: #dddddd;
 }
 
 section {
@@ -44,15 +44,15 @@ section {
   background-attachment: fixed;
 }
 
-section.rnt_2 {
+.image_2 {
   background-image: url(rnt_2.jpg);
 }
 
-section.rnt_3 {
+.image_3 {
   background-image: url(rnt_3.jpg);
 }
 
-section.rnt_4 {
+.image_4 {
   background-image: url(rnt_4.jpg);
 }
 
